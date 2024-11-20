@@ -9,12 +9,14 @@ Configurar SonarQube utilizando Docker Compose, para esto necesitas dos servicio
 - Investiga cuáles son las variables de entorno para que los servicios funcionen de manera adecuada.
   
 # Una vez creado tu archivo .yaml realiza la respectiva prueba 
-![Imagen de WhatsApp 2024-11-20 a las 15 12 01_a4fcd9d4](https://github.com/user-attachments/assets/a1b99dc3-25fd-464c-bf7d-30a2ae95e32e)
-![Imagen de WhatsApp 2024-11-20 a las 15 12 22_b2b9d980](https://github.com/user-attachments/assets/53170f79-cddd-4de8-a0c7-0a23d674a089)
+
 
 
 # COMPLETAR CON UNA CAPTURA DE PANTALLA LUEGO DE EJECUTAR EL ARCHIVO
-![Imagen de WhatsApp 2024-11-20 a las 15 12 41_bfe45498](https://github.com/user-attachments/assets/84489c61-845a-422f-84de-db7e0ad88f34)
+![image](https://github.com/user-attachments/assets/0cca8a1f-b2ae-4e9a-8e13-9de1cac9bf47)
+![image](https://github.com/user-attachments/assets/be51c499-97ec-4411-800a-f1634dbccf61)
 
 # ACCEDER A LOCALHOST:puertoDefinido para ingresar a SonarQube
-![Uploading Imagen de WhatsApp 2024-11-20 a las 15.14.54_e1c3546e.jpg…]()
+![image](https://github.com/user-attachments/assets/16c95d31-b4c8-4568-9727-e184fce6489a)
+![image](https://github.com/user-attachments/assets/d6cba716-af20-4093-b3e8-e0ad6a5d0f41)
+
